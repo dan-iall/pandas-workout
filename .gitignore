@@ -3,3 +3,4 @@
 *.csv
 data/
 env/
+.DS_Store
